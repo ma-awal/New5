@@ -1,0 +1,53 @@
+
+
+/* service setion */
+  .service{
+    padding: 82px 0px;
+  }
+  .service .row{
+    max-width:1140px;
+    margin:auto;
+  }
+
+ .service .service-info{
+   max-width: 842px; 
+   margin: auto; 
+}
+ .service .row{
+   padding: 72px 0px;;
+   }
+
+ .service .card{
+   max-width: 300px;
+   border: none;
+    
+  }
+  .service .card .p-m-black{
+   margin-top: 24px;
+   margin-bottom: 12px;;
+  }
+ 
+ .service .card a{
+   font-size: var(--font-s);
+   font-weight: var(--font-bold);
+   color:var(--dark-blue);
+   text-decoration: none;;
+  position:relative;
+ }
+ .service .card a i {
+  padding-left: 8px;
+
+ }
+ .service .card a::after{
+  content: "";
+  position: absolute;
+  top:112%;
+  left: 0;
+  right: 0;
+  color:var(--dark-blue);
+  background:var(--dark-blue);
+  width:50% ;
+  height:2px;
+  
+ }
+ 

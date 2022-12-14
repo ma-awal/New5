@@ -1,0 +1,58 @@
+ /* customer */
+ 
+ .customer .customer1{
+   max-width: 1136px;
+   margin:auto;
+ }
+ .customer .customer1 .image{
+   max-width: 493px;
+     
+ }
+ .customer .img-info{
+  max-width: 493px;
+  
+}
+.customer .img-info h2{
+   margin-bottom: 40px;;
+}
+.customer  .info-list p  {
+   line-height: var(--line-height4);
+   font-family:var(--family-sans);
+   font-size: var(--font-s);
+}
+.customer  .info-list    {
+   margin-bottom: 56px;
+}
+.customer  .info-list p img{
+   margin-right: 16px;
+}
+ 
+
+/* customer2 */
+.customer .customer2{
+   max-width: 1140px;
+   margin: auto;
+   margin-top: 120px;
+}
+
+
+.customer .customer2 .single-card{
+
+}.customer .customer2 .main-info h2  {
+   margin-bottom: 64px;
+}
+.customer .customer2  .main-info p  {
+   line-height: var(--line-height5);
+   font-family:var(--family-sans);
+   font-size: var(--font-xs);
+   font-weight: var(--font-semibold);
+   color:var(--black-blue)
+}
+.customer .customer2 .main-info p.active  {
+   line-height: var(--line-height5);
+   font-family:var(--family-sans);
+   font-size: var(--font-xs);
+   font-weight: var(--font-semibold);
+   color:var(--white-color);
+   background:var(--dark-blue)
+}

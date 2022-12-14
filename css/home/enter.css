@@ -1,0 +1,27 @@
+  
+ .enter{
+   margin: 124px auto;
+   display: flex;
+   flex-wrap: wrap;
+ }
+.enter .container{
+ background: var(--dark-blue);
+ max-width: 1200px;
+
+ padding: 72px 0px;
+ border-radius: 12px;
+}
+ 
+
+ .enter .input-btn {
+  margin-top: 50px;;
+ }
+ .enter .input-btn input{
+   font-size: var(--font-s);
+   font-family: var(--font-sans);
+   font-weight: var(--font-regular);
+   color: var(--black-color);
+   padding: var(--btn-padding);
+   border-radius: var(--btn-radius);
+   color: var(--black-color);
+ }

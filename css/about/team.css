@@ -1,0 +1,25 @@
+/* section team */
+
+.team{
+   margin-top: 96px;
+}
+
+.team .container .main-team{
+max-width: 1000px;
+margin: auto;;
+}
+.team .team-info{
+ max-width: 851px;
+ margin: auto;;
+ 
+}
+.team img{
+   margin-bottom: 24px;
+}
+ 
+.team .row{
+   margin-top: 52px;
+}
+.team .p-l-black{
+   margin-bottom: 12px;
+}

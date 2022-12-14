@@ -1,0 +1,21 @@
+.number{
+   background: var(--dark-blue);
+   margin-top: 96px;
+}
+.number .container{
+   padding: 84px 0px }
+
+ .number .number-info{
+   max-width: 842px; 
+   margin: auto;
+ }
+
+ .number .row{
+   margin-top:84px;
+ 
+ }
+ 
+ .number .p-l-white{
+  margin-top: 32px;
+ }
+ 

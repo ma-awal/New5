@@ -1,0 +1,19 @@
+.value{
+   background: var(--dark-blue);
+   margin-top: 120px;
+  
+}
+.value .container{
+   padding: 120px 0px 
+}
+.value .main-value{
+   max-width: 800px;
+   margin:auto;
+}
+.value .single-value{
+   margin-bottom: 72px;
+}
+.value .value-info{
+   margin-bottom:72px;
+}
+ 

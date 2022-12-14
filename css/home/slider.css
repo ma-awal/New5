@@ -1,0 +1,70 @@
+/* slider part */
+
+.slider{
+     margin-top: 120px;
+    min-height: 797px;
+    display: flex ;
+    flex-wrap:wrap;
+    background: var(--dark-blue); 
+}
+
+ .slider .swiper-container{
+   max-width: 1100px;
+ }
+.slider h1{
+   margin-top: 96px;
+   width: 716px;
+  
+}
+.slider .swiper-container .swiper-wrapper{
+    margin-top: 72px;
+    
+}
+ 
+.slider .slide-box{
+   border-radius: 14px;
+   background:var(--white-color) ;
+   padding: 40px;
+   
+}
+.slider .slide-box .author{
+   font-family: var(--font-sans);
+   font-weight: var(--font-bold);
+   font-size: 16px;
+   color:var(--dark-blue);
+   margin-bottom: 6px
+    ;
+}
+.slider .slide-info{
+   margin-left: 16px;
+   margin-top: 40px;
+}
+.slider .slide-box .title1{
+   font-family: var(--font-sans);
+   font-weight: var(--font-regular);
+   font-size:14px;
+   color:var(--gray-color);
+   
+    
+}
+.slider  .navigation-btn{
+    margin-right: 5rem!important;  
+     /* margin-top:2rem;
+     margin-bottom:2rem; */
+     margin-top: 172px;
+}
+.slider  .btn1{
+   width: 72px;;
+   height: 72px;
+   background: var(--white-color);
+   
+
+}
+.slider  .btn1::after{
+  color:var(--dark-blue)!important;
+  font-size: 20px;
+  
+}
+
+
+ 

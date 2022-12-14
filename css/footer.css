@@ -1,0 +1,24 @@
+.footer{
+  min-height: 491px;
+}
+ 
+.footer .main-link ul li{
+  list-style-type:none;
+ 
+}
+
+.footer .main-link ul li a{
+   list-style-type:none;
+   text-decoration: none;
+   font-family: var(--family-sans)!important;
+   font-weight: var(--font-regular)!important;
+   font-size: var(--font-s)!important;
+   color:var(--gray-color)!important;
+   line-height:var(--line-height1)!important;
+   transition: 0.3s linear;
+ }
+
+ .footer .main-link ul li a:hover{
+  color:var(--green-color)!important;
+  letter-spacing: 2px;;
+ }

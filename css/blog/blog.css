@@ -1,0 +1,41 @@
+
+ 
+.blog .blog-info{
+    margin-bottom: 72px;
+}
+.blog .blog-info .title{
+   margin-bottom: 12px;;
+   
+}
+.blog .news{
+   max-width: 998px;
+   margin: auto;
+   margin-bottom: 40px;
+}
+.blog .row{
+  max-width: 998px;
+   margin: auto;
+   margin-bottom: 84px;;
+    
+}
+
+.blog .card {
+    width:300px;
+    margin: auto;
+}
+.blog .card img{
+   margin-bottom: 24px;;
+}
+.blog .card .para-xs {
+   margin-bottom: 12px;
+}
+ 
+ 
+.blog .card p span{
+   color:var(--gray-color);
+   margin-left: 12px;
+}
+.blog .card .blog-img{
+   margin-top: 20px;
+}
+ 
