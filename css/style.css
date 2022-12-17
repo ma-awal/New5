@@ -1,17 +1,19 @@
-@import "/dist/css/about/number.css";
-@import "/dist/css/about/story.css";
-@import "/dist/css/about/team.css";
-@import "/dist/css/about/value.css";
-@import "/dist/css/about/gallery.css";
 
-@import "/dist/css/blog/blog.css";
 
-@import "/dist/css/home/connect.css";
-@import "/dist/css/home/customer.css";
-@import "/dist/css/home/service.css";
-@import "/dist/css/home/slider.css";
-@import "/dist/css/home/enter.css";
-@import  "/dist//css/footer.css";
+@import "./about/number.css";
+@import "./about/story.css";
+@import "./about/team.css";
+@import "./about/value.css";
+@import "./about/gallery.css";
+
+@import "./blog/blog.css";
+
+@import "./home/connect.css";
+@import "./home/customer.css";
+@import "./home/service.css";
+@import "./home/slider.css";
+@import "./home/enter.css";
+@import "./footer.css";
  
 
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&display=swap');
