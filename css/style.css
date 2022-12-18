@@ -359,3 +359,11 @@ min-height: 619px;
 .blog-banner .info-content{
   border-bottom:2px solid var(--gray-color)
 }
+
+@media (max-width:540px) {
+   html{
+    overflow-x: hidden;
+    margin: auto 0;
+  ;
+   }
+}
